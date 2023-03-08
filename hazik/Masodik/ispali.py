@@ -1,4 +1,3 @@
-#! /usr/bin/env python3
 import sys
 import os
 import math
@@ -15,7 +14,7 @@ def IsPaliRek(s):
                         return True
                     else:
                         a=s[1:-1]
-                        return IsPaliRek(a)     
+                        IsPaliRek(a)     
                 else:                
                     return False
                 
