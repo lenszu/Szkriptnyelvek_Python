@@ -13,9 +13,6 @@ def main():
             sumo += int(str(i)[j])
     print(sumo)
 
-    a = list(str(range(1,101)))
-    print(a)
-
 
 if __name__ == '__main__':
     main()

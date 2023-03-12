@@ -22,7 +22,7 @@ def main():
             print(tmp.center(x))
             tmp = ""
     else:
-        print("Ismetlen, PARATLAN szamot adjon meg!")
+        print("Ismetlem, PARATLAN szamot adjon meg!")
 
 if __name__ == '__main__':
     main()

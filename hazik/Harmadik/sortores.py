@@ -2,7 +2,7 @@
 import sys
 import random as r
 
-UPTO = 10
+UPTO = 100
 
 
 def main():
